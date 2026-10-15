@@ -1,0 +1,9 @@
+# Versiones con las que se entrenó el modelo en Google Colab y se probó la app:
+# Python 3.13 (Colab) / 3.12 (prueba local), TensorFlow 2.21.0, Keras 3.13.2 (Colab) - carga también con 3.15.1
+tensorflow==2.21.0
+numpy
+pandas
+matplotlib
+scikit-learn
+pillow
+streamlit>=1.35

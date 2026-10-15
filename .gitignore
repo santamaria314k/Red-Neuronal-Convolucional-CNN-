@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
+# Dataset (se descarga automáticamente; pesa ~220 MB)
+data/*
+!data/.gitkeep
+flower_photos*/
