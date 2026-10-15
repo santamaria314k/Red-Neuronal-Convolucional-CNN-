@@ -2,6 +2,13 @@
 
 Proyecto de Deep Learning: una **Red Neuronal Convolucional** entrenada desde cero para clasificar fotografías de flores en **5 clases** (margarita, diente de león, rosa, girasol y tulipán), con una **aplicación Streamlit** que carga el modelo entrenado, recibe una imagen y muestra la **clase predicha y su nivel de confianza**.
 
+Prueba de ejecusionde la app 
+<img width="1385" height="730" alt="rosa ev" src="https://github.com/user-attachments/assets/efd6e1b1-87dd-44a6-ad72-454e7e937a1d" />
+<img width="1365" height="728" alt="tulipan ev" src="https://github.com/user-attachments/assets/0e4227af-4a9f-46fa-a3a8-e116b77d7d73" />
+<img width="1351" height="726" alt="girasol ev" src="https://github.com/user-attachments/assets/f8ecfee0-f9c8-4000-a814-1279d7517bfe" />
+<img width="1368" height="721" alt="avion ev" src="https://github.com/user-attachments/assets/cae49f6b-ce7e-432a-bcf0-4a0fa73d5334" />
+
+
 
 
 ## 1. Dataset
